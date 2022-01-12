@@ -1,0 +1,15 @@
+{
+    "name": "chapikas/test",
+    "autoload": {
+        "psr-4": {
+            "Chapikas\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Hernandez",
+            "email": "granviamurcia2@gmail.com"
+        }
+    ],
+    "require": {}
+}
